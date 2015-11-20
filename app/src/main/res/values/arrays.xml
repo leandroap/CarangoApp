@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="marcas">
+        <item></item>
+        <item>@string/marca_chevrolet</item>
+        <item>@string/marca_fiat</item>
+        <item>@string/marca_ford</item>
+        <item>@string/marca_honda</item>
+        <item>@string/marca_hyundai</item>
+    </array>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CarangoApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_marca">Marca</string>
+    <string name="marca_fiat" translatable="false">Fiat</string>
+    <string name="marca_ford" translatable="false">Ford</string>
+    <string name="marca_chevrolet" translatable="false">Chevrolet</string>
+    <string name="marca_honda" translatable="false">Honda</string>
+    <string name="marca_hyundai" translatable="false">Hyundai</string>
+    <string name="text_modelo">Modelo</string>
+    <string name="hint_modelo">Informe o modelo</string>
+    <string name="label_versao">Versão</string>
+    <string name="hint_versao">Informe a versão</string>
+    <string name="label_ano_modelo">Ano Modelo</string>
+    <string name="hint_ano_modelo">Informe o ano modelo</string>
+    <string name="label_ano_fabricacao">Ano Fabricação</string>
+    <string name="hint_ano_fabricacao">Informe o ano de fabricação</string>
+    <string name="label_combustivel">Combustível</string>
+    <string name="label_gnv">GNV</string>
+    <string name="label_eletrico">Elétrico</string>
+    <string name="label_gasolina">Gasolina</string>
+    <string name="label_etanol">Etanol</string>
+    <string name="label_placa">Placa</string>
+    <string name="hint_placa">Informe a placa</string>
+    <string name="label_ipva">IPVA pago</string>
+    <string name="label_sim">Sim</string>
+    <string name="label_nao">Não</string>
+</resources>
